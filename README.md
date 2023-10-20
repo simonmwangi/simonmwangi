@@ -1,25 +1,19 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A frontend and backend developer from Kenya</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simonmwangi&label=Profile%20views&color=0e75b6&style=flat" alt="simonmwangi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonmwangi" alt="simonmwangi" /></a> </p>
+<h3 align="center">A frontend and backend developer</h3>
 
 - 🔭 I’m currently working on **social networking application**
 
 - 🌱 I’m currently learning **Kotlin and Jetpack Compose for Android Development**
 
-- 👨‍💻 All of my projects are available at [github/simonmwangi](github/simonmwangi)
+- 💬 Ask me about **Hybrid App Development**
 
-- 💬 Ask me about **Web development**
-
-- 📫 How to reach me **developer@simonmwangi.co.ke**
+- 📫 How to reach me **simonmwangi@unicodeonesolutions.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  **Twitter** twitter.com/sb_mwangi
-**LinkedIn** linkedin.com/in/sb-dev/
-</p>
+
+**Twitter** https://twitter.com/sb_mwangi <br>
+**LinkedIn** https://linkedin.com/in/sb-dev/
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  
@@ -29,6 +23,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonmwangi&show_icons=true&locale=en&layout=compact" alt="simonmwangi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simonmwangi&show_icons=true&locale=en" alt="simonmwangi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simonmwangi&" alt="simonmwangi" /></p>
